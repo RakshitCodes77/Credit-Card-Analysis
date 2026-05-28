@@ -1,30 +1,28 @@
-
 # Credit Card Financial Dashboard Analysis
 
 ## Project Overview
-This project focuses on analyzing credit card customer and transaction data using SQL and Tableau to generate meaningful business insights. The dashboard provides a comprehensive overview of customer behavior, revenue trends, transaction patterns, and card performance metrics.
+This project focuses on analyzing credit card customer and transaction data using Tableau and SQL to generate meaningful business insights. The dashboard provides a comprehensive analysis of customer behavior, transaction trends, revenue generation, and card category performance.
 
-The main objective of this project is to transform raw financial data into interactive visual reports that support data-driven decision-making.
+The main objective of this project is to convert raw financial data into interactive visual dashboards that support business decision-making and performance monitoring.
 
 ---
 
 ## Features
-- Interactive Power BI dashboard
-- Customer segmentation analysis
-- Revenue and transaction trend analysis
+- Interactive Tableau dashboard
+- Customer behavior analysis
+- Revenue and transaction trend visualization
 - Card category performance tracking
 - Weekly and quarterly KPI monitoring
-- Dynamic filtering using slicers
-- Real-time business insight visualization
+- Dynamic filtering and dashboard interaction
+- Business insight generation through data visualization
 
 ---
 
 ## Tech Stack
-- **Power BI** – Dashboard creation & visualization
+- **Tableau** – Dashboard creation & data visualization
 - **SQL** – Data storage and querying
-- **Power Query** – Data cleaning and transformation
-- **DAX** – KPI calculations and custom measures
-- **CSV Dataset** – Source data
+- **CSV Dataset** – Source data handling
+- **Excel** – Data preprocessing and validation
 
 ---
 
@@ -39,32 +37,34 @@ The project uses multiple datasets containing:
 ---
 
 ## Workflow
-1. Imported raw CSV datasets into SQL database
-2. Cleaned and transformed data using Power Query
-3. Established relationships between tables
-4. Created DAX measures for KPIs and calculations
-5. Designed interactive dashboards in Power BI
-6. Generated business insights from visual analysis
+1. Imported raw CSV datasets
+2. Cleaned and validated the data
+3. Performed SQL queries for analysis
+4. Connected datasets to Tableau
+5. Created calculated fields and KPI metrics
+6. Designed interactive dashboards and visual reports
+7. Generated business insights from dashboard analysis
 
 ---
 
 ## Key KPIs
 - Total Revenue
 - Total Transaction Amount
-- Interest Earned
+- Total Interest Earned
 - Transaction Count
-- Activation Rate
-- Delinquent Rate
 - Revenue by Card Category
 - Revenue by Customer Segment
+- Weekly Revenue Trends
+- Quarterly Performance Analysis
 
 ---
 
-## Business Insights
+## Dashboard Insights
 - Blue card category generated the highest number of transactions
-- Certain customer groups contributed significantly higher revenue
-- Revenue trends varied across quarters and weeks
-- Spending behavior differed across transaction modes and expenditure types
+- Revenue contribution varied significantly across customer groups
+- Spending behavior changed across different expenditure categories
+- Certain weeks and quarters showed peak transaction activity
+- Higher credit limit customers contributed greater revenue
 
 ---
 
@@ -85,7 +85,7 @@ Credit_Card_Analysis/
 │
 ├── Dataset/
 ├── SQL_Files/
-├── Dashboard/
+├── Tableau_Dashboard/
 ├── Images/
 ├── README.md
-└── Credit_Card_Report.pbix
+└── Credit_Card_Analysis.twb
