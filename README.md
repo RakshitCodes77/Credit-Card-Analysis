@@ -2,7 +2,7 @@
 # Credit Card Financial Dashboard Analysis
 
 ## Project Overview
-This project focuses on analyzing credit card customer and transaction data using SQL and Power BI to generate meaningful business insights. The dashboard provides a comprehensive overview of customer behavior, revenue trends, transaction patterns, and card performance metrics.
+This project focuses on analyzing credit card customer and transaction data using SQL and Tableau to generate meaningful business insights. The dashboard provides a comprehensive overview of customer behavior, revenue trends, transaction patterns, and card performance metrics.
 
 The main objective of this project is to transform raw financial data into interactive visual reports that support data-driven decision-making.
 
