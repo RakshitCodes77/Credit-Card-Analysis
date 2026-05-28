@@ -66,26 +66,6 @@ The project uses multiple datasets containing:
 - Certain weeks and quarters showed peak transaction activity
 - Higher credit limit customers contributed greater revenue
 
----
 
-## Dashboard Preview
 
-### Customer Dashboard
-(Add Screenshot Here)
 
-### Transaction Dashboard
-(Add Screenshot Here)
-
----
-
-## Project Structure
-
-```text
-Credit_Card_Analysis/
-│
-├── Dataset/
-├── SQL_Files/
-├── Tableau_Dashboard/
-├── Images/
-├── README.md
-└── Credit_Card_Analysis.twb
